@@ -47,3 +47,9 @@ web 项目图形化界面安装器，可以当作项目的外挂程序
 go build 
 ```
 打包得到的是一个内嵌静态文件的可执行文件，不需要单独部署前端文件， 可以将编译好的二进制文件放到项目，作为一个小工具
+
+![step1](./img/step1.png)
+![step1](./img/step2.png)
+![step1](./img/step3.png)
+![step1](./img/step4.png)
+
